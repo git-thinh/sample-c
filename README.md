@@ -1,2 +1,1 @@
-# sample-c-
-Sample C++
+# Sample C++
